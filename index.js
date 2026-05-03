@@ -67,3 +67,10 @@ function greetFull(name, lastName){
 
 greetFull('Jon', 'Dela Cruz');
 greetFull('Maximus', 'Dela Cruz');
+
+// Other Functions
+function square(number){
+    return number * number;
+}
+
+console.log(square(3));
